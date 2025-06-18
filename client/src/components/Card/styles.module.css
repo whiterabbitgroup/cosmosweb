@@ -63,6 +63,7 @@
   height: 100%;
   font-size: 0;
   inset: 0;
+  z-index: 1;
 }
 .msf.card .card__wrapper header {
   display: flex;

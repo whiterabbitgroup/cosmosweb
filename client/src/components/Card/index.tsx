@@ -28,7 +28,7 @@ export default function ContentBlock() {
   return (
     <div className={`${styles.msf} ${styles["card"]}`}>
       <a href="#" title="This is a headline. It can be two lines max.">
-        Card title
+        This is a headline. It can be two lines max
       </a>
       <div className={styles.card__wrapper}>
         <header>
